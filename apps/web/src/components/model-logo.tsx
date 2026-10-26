@@ -12,6 +12,7 @@ const DEFAULT_LOGO = "/logos/default.webp";
  * black-on-white marks) keeps the white tile for legibility in both themes.
  */
 const FULL_BLEED = new Set([
+  "/logos/audio8.webp",
   "/logos/stealth.webp",
   "/logos/openaudio.webp",
   "/logos/typecast.webp",
